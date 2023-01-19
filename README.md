@@ -1,3 +1,3 @@
-# Nota finala: 3
+# Nota finala: 5
 Nota test: 5
-Nota proiect: 1
+Nota proiect: 5
